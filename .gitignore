@@ -1,1 +1,10 @@
 Library/
+Logs/
+Temp/
+Packages/
+ProjectSettings/
+UserSettings/
+.vscode/
+.plastic/
+*.sln
+*.csproj
